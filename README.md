@@ -32,4 +32,5 @@ Collabrative filtering with user embedding and item embedding
 
 
 ## Stremlit Demo
+run the streamlit.py to access the demo
 ![Screenshot](https://github.com/changyuhsin1999/Nintendo_Switch_Game_Recommendation/blob/main/image/Screen%20Shot%202023-08-09%20at%208.23.54%20PM.png)
