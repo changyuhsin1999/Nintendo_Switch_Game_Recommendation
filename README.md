@@ -9,6 +9,10 @@ However, on the official website, there is no recommendation system that suggest
 I found a Kaggle dataset that collects Nintendo Switch games, rating and user info. No one has done a recommendation system based on this dataset. This dataset contains game title, userID, rating, genre, developers
 [Kaggle Nintendo Switch Data](https://www.kaggle.com/datasets/mrmorj/nintendo-games-dataset)
 
+## Modeling process
+### NON Deep Learning
+Content based filtering: I collected "title", "genre", "developer", "rating"
 
-## Demo
+
+## Stremlit Demo
 ![Screenshot](https://github.com/changyuhsin1999/Nintendo_Switch_Game_Recommendation/blob/main/image/Screen%20Shot%202023-08-09%20at%208.23.54%20PM.png)
